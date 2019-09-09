@@ -1,2 +1,2 @@
 # CSE_248_Notes
-This is for testing purposes
+Advance Object Oriented Programming notes
